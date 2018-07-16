@@ -1,4 +1,4 @@
-git # Git commands
+# Git commands
 [Markdown cheatshett](https://github.com/adam-p/Markdown-here/wiki/Markdown-Cheatsheet)
 
 [YAML cheatsheet](https://gist.github.com/jonschlinkert/5170877)
